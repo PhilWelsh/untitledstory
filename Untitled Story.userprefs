@@ -1,13 +1,13 @@
-﻿<Properties>
+﻿<Properties StartupItem="Untitled Story.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\player1controller.cs">
     <Files>
-      <File FileName="Assets\scripts\player1controller.cs" Line="13" Column="47" />
-      <File FileName="Assets\scripts\cameraFollow.cs" Line="13" Column="30" />
+      <File FileName="Assets\scripts\player1controller.cs" Line="11" Column="17" />
+      <File FileName="Assets\scripts\cameraFollow.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\timer.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\DialogueManager.cs" Line="10" Column="6" />
-      <File FileName="Assets\scripts\Dialogue.cs" Line="8" Column="21" />
-      <File FileName="Assets\scripts\DialogueTrigger.cs" Line="6" Column="2" />
+      <File FileName="Assets\scripts\DialogueManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Dialogue.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\DialogueTrigger.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
